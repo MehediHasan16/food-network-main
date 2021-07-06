@@ -93,8 +93,9 @@ input{
    
 }
 textarea{
-    height: 40%;
-    margin-top: 20px;
+    margin: 20px 0px 0px;
+    width: 392px;
+    height: 123px;
 }
 footer{
     background-color: rgb(36, 34, 34);
